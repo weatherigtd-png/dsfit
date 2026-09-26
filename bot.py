@@ -85,7 +85,7 @@ TEXTS = {
             "ravishda online mashg‘ulotlar olib boraman.\n\n"
             "Har bir ishtirokchi bilan individual ishlayman va natijaga "
             "yo‘naltirilgan mashg‘ulot dasturini tuzaman.\n\n\n"
-            "**Sog'liging uchun egoist bo‘l!**\n\n"
+            "*Sog'liging uchun egoist bo‘l!*\n\n"
             "Kursga qo‘shilish uchun quyidagi tugmani bosing 👇"
         ),
 
