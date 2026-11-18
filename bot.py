@@ -17,11 +17,10 @@ from aiogram.fsm.context import FSMContext
 from aiogram.fsm.storage.memory import MemoryStorage
 
 
-TOKEN = import asyncio
+TOKEN = "8888910798:AAFYtmw4O6XvzX5RuHZGrpoQpDpdY8JOfyc"
 
 import sqlite3
 from pathlib import Path
-
 from datetime import datetime
 
 
